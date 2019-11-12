@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    >
+
+    <font
+        android:font="@font/adamas"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+
+    <font
+        android:font="@font/transformers"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <font
+        android:font="@font/lovelolinebold"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+
+    <font
+        android:font="@font/lovelolinelight"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+
+    <font
+        android:font="@font/neoneon"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+
+    <font
+        android:font="@font/pumlight"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+
+    <font
+        android:font="@font/beauty"
+        android:fontStyle="normal"
+        android:fontWeight="200"/>
+</font-family>
